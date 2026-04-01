@@ -16,27 +16,14 @@
 
 ---
 
-### **Tech Stack & Tools**
+### **My Commit**
 
 <div align="center">
-  <!-- Core Backend -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/SSM_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="SSM" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <br>
-  <!-- Frontend & Testing -->
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
-  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter" />
-  <br>
-  <!-- AI Agent -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/AutoGen-0052CC?style=for-the-badge&logo=openai&logoColor=white" alt="AutoGen" />
-  <img src="https://img.shields.io/badge/LangGraph-FF9900?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sibuchen/sibuchen/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sibuchen/sibuchen/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sibuchen/sibuchen/output/github-contribution-grid-snake.svg" />
+</picture>
 </div>
 
 ---
@@ -46,18 +33,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sibuchen&show_icons=true&theme=tokyo-night&hide_border=true&title_color=E879F9" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibuchen&layout=compact&theme=tokyo-night&hide_border=true&title_color=E879F9" height="165" alt="Top Languages" />
-</div>
-
----
-
-### **My Commit**
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sibuchen/sibuchen/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sibuchen/sibuchen/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sibuchen/sibuchen/output/github-contribution-grid-snake.svg" />
-</picture>
 </div>
 
 ---
