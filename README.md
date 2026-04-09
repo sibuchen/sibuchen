@@ -10,8 +10,65 @@
 
 [![Blog](https://img.shields.io/badge/Sibuchen's%20Blog-Visit%20Now-4ade80?style=for-the-badge&logoColor=white)](https://sibuchen.xyz/)
 [![Email](https://img.shields.io/badge/Email-sibuchen55%40qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sibuchen55@qq.com)
-[![Views](https://komarev.com/ghpvc/?username=sibuchen&color=E879F9&style=for-the-badge&label=VISITORS)](https://github.com/sibuchen)
+<!-- [![Views](https://komarev.com/ghpvc/?username=sibuchen&color=E879F9&style=for-the-badge&label=VISITORS)](https://github.com/sibuchen) -->
 
+</div>
+
+---
+
+### **Tools**
+
+<div align="center">
+
+[![Windows](https://img.shields.io/badge/Windows_11-0078D6?style=flat-square&logo=windows&logoColor=white)](#)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu_24.04-E95420?style=flat-square&logo=ubuntu&logoColor=white)](#)
+[![CentOS](https://img.shields.io/badge/CentOS_7-262577?style=flat-square&logo=centos&logoColor=white)](#)
+
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)](#)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)](#)
+[![CLion](https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white)](#)
+[![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)](#)
+[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)](#)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](#)
+
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](#)
+[![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)](#)
+[![SSM](https://img.shields.io/badge/SSM-6DB33F?style=flat-square&logo=spring&logoColor=white)](#)
+[![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)](#)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
+[![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)](#)
+
+
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#)
+[![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)](#)
+[![MobaXterm](https://img.shields.io/badge/MobaXterm-EA6618?style=flat-square&logoColor=white)](#)
+[![Navicat](https://img.shields.io/badge/Navicat-7CCFD5?style=flat-square&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
+
+[![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)](#)
+[![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)](#)
+
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](#)
+[![Feishu](https://img.shields.io/badge/Feishu-1456F0?style=flat-square&logoColor=white)](#)
+[![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)](#)
+[![Typora](https://img.shields.io/badge/Typora-2D2D2D?style=flat-square&logoColor=white)](#)
+
+[![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)](#)
+[![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logoColor=white)](#)
+[![Trae](https://img.shields.io/badge/Trae-10B981?style=flat-square&logoColor=white)](#)
+[![ClaudeCode](https://img.shields.io/badge/ClaudeCode-D97757?style=flat-square&logo=claude&logoColor=white)](#)
+[![OpenCode](https://img.shields.io/badge/OpenCode-2D2D2D?style=flat-square&logoColor=white)](#)
+[![OpenClaw](https://img.shields.io/badge/OpenClaw-E53935?style=flat-square&logoColor=white)](#)
+
+</div>
+
+---
+
+### Visitor Counter
+
+<div align="center">
+  <img src="https://count.getloli.com/@sibuchen?theme=booru-the-collection&padding=7&offset=0&scale=1&align=top&pixelated=1&darkmode=auto" alt="Moe Counter" />
 </div>
 
 ---
@@ -24,15 +81,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sibuchen/sibuchen/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/sibuchen/sibuchen/output/github-contribution-grid-snake.svg" />
 </picture>
-</div>
-
----
-
-### **GitHub Stats**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sibuchen&show_icons=true&theme=tokyo-night&hide_border=true&title_color=E879F9" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibuchen&layout=compact&theme=tokyo-night&hide_border=true&title_color=E879F9" height="165" alt="Top Languages" />
 </div>
 
 ---
