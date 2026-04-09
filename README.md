@@ -65,7 +65,7 @@
 
 ---
 
-### Visitor Counter
+### **Visitor Counter**
 
 <div align="center">
   <img src="https://count.getloli.com/@sibuchen?theme=booru-the-collection&padding=7&offset=0&scale=1&align=top&pixelated=1&darkmode=auto" alt="Moe Counter" />
