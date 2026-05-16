@@ -31,20 +31,28 @@
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)](#)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](#)
 
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)](#)
+[![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](#)
 [![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)](#)
+
 [![SSM](https://img.shields.io/badge/SSM-6DB33F?style=flat-square&logo=spring&logoColor=white)](#)
+[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](#)
+
 [![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)](#)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
-[![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)](#)
-
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#)
+[![Qdrant](https://img.shields.io/badge/Qdrant-FF4F00?style=flat-square&logo=qdrant&logoColor=white)](#)
+[![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](#)
+[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)](#)
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#)
 [![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)](#)
 [![MobaXterm](https://img.shields.io/badge/MobaXterm-EA6618?style=flat-square&logoColor=white)](#)
 [![Navicat](https://img.shields.io/badge/Navicat-7CCFD5?style=flat-square&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
+[![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)](#)
 
 [![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)](#)
 [![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)](#)
@@ -58,6 +66,7 @@
 [![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logoColor=white)](#)
 [![Trae](https://img.shields.io/badge/Trae-10B981?style=flat-square&logoColor=white)](#)
 [![ClaudeCode](https://img.shields.io/badge/ClaudeCode-D97757?style=flat-square&logo=claude&logoColor=white)](#)
+[![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)](#)
 [![OpenCode](https://img.shields.io/badge/OpenCode-2D2D2D?style=flat-square&logoColor=white)](#)
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-E53935?style=flat-square&logoColor=white)](#)
 
@@ -92,6 +101,104 @@
 </div>
 
 ---
+<h2 align="center"> AI & Agent </h2>
+
+<table align="center">
+    <tr>
+        <td align="center">
+            <a href="https://github.com/sibuchen/sibuchen-agents">
+                <img src="https://gh-card.dev/repos/sibuchen/sibuchen-agents.svg" width="400" />
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/sibuchen/sibuchen-skills">
+                <img src="https://gh-card.dev/repos/sibuchen/sibuchen-skills.svg" width="400" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/你的用户名/项目C">
+                <img src="https://gh-card.dev/repos/你的用户名/项目C.svg" width="400" />
+            </a>
+        </td>
+    </tr>
+</table>
+
+<h2 align="center"> Backend </h2>
+
+<table align="center">
+    <tr>
+        <td align="center">
+            <a href="https://github.com/你的用户名/项目A">
+                <img src="https://gh-card.dev/repos/你的用户名/项目A.svg" width="400" />
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/你的用户名/项目B">
+                <img src="https://gh-card.dev/repos/你的用户名/项目B.svg" width="400" />
+            </a>
+        </td>
+    </tr>
+</table>
+
+<h2 align="center"> Frontend </h2>
+
+<table align="center">
+    <tr>
+        <td align="center">
+            <a href="https://github.com/你的用户名/项目A">
+                <img src="https://gh-card.dev/repos/你的用户名/项目A.svg" width="400" />
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/你的用户名/项目B">
+                <img src="https://gh-card.dev/repos/你的用户名/项目B.svg" width="400" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/sibuchen/PromptManager">
+                <img src="https://gh-card.dev/repos/sibuchen/PromptManager.svg" width="400" />
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/sibuchen/cyberpunk-task-flux">
+                <img src="https://gh-card.dev/repos/sibuchen/cyberpunk-task-flux.svg" width="400" />
+            </a>
+        </td>
+    </tr>
+</table>
+
+<h2 align="center"> Small projects </h2>
+
+<table align="center">
+    <tr>
+        <td align="center">
+            <a href="https://github.com/sibuchen/WenJian--ReActAgent">
+                <img src="https://gh-card.dev/repos/sibuchen/WenJian--ReActAgent.svg" width="400" />
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/sibuchen/ZhiQi--PlanAndSolveAgent">
+                <img src="https://gh-card.dev/repos/sibuchen/ZhiQi--PlanAndSolveAgent.svg" width="400" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/sibuchen/Nova--TravelAgent">
+                <img src="https://gh-card.dev/repos/sibuchen/Nova--TravelAgent.svg" width="400" />
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/JefferyHcool/BiliNote">
+                <img src="https://gh-card.dev/repos/JefferyHcool/BiliNote.svg" width="400" />
+            </a>
+        </td>
+    </tr>
+</table>
 
 <!-- 底部波浪 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
