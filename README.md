@@ -31,7 +31,7 @@
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)](#)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](#)
 
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-4FC08D?style=flat-square&logo=react&logoColor=white)](#)
 [![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](#)
 [![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)](#)
 
@@ -50,7 +50,7 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#)
 [![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)](#)
 [![MobaXterm](https://img.shields.io/badge/MobaXterm-EA6618?style=flat-square&logoColor=white)](#)
-[![Navicat](https://img.shields.io/badge/Navicat-7CCFD5?style=flat-square&logoColor=white)](#)
+[![Navicat](https://img.shields.io/badge/Navicat-4FC08D?style=flat-square&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
 [![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)](#)
 
@@ -118,8 +118,8 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="https://github.com/你的用户名/项目C">
-                <img src="https://gh-card.dev/repos/你的用户名/项目C.svg" width="400" />
+            <a href="https://github.com/sibuchen/TianTing">
+                <img src="https://gh-card.dev/repos/sibuchen/TianTing.svg" width="400" />
             </a>
         </td>
     </tr>
